@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Rock, Paper, Scissors game made with Python
+# Rock, Paper, Scissors game made with Python
